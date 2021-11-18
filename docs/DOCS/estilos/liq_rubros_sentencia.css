@@ -1,0 +1,59 @@
+
+table{
+    font-size: 25px;
+    display: none;
+}
+
+tbody>tr>td:first-of-type{
+    text-align: left;
+    color: black;
+}
+
+input[type = checkbox]{
+    transform: scale(2);
+}
+
+#addTemplate, #remTemplate{
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+}
+
+.result{
+    min-width: 800px;
+    
+}
+
+fieldset, fieldset>input{
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+legend{
+    margin-left: -20px;
+}
+
+form{
+    font-size: 18px;
+}
+
+.divisor{
+    clear: both;
+    height: 30px;
+}
+
+.first{
+    font-size: 25px;
+    color: black;
+}
+
+.second {
+    font-size: 20px;
+    color: lightslategray;
+    display: none;
+}
+
+._245{
+    display: none;
+}

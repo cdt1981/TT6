@@ -1,0 +1,56 @@
+
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+}
+
+html, body{
+    width: 100%;
+    min-width: 4300px;
+    font-size: 14px;
+
+}
+
+input{
+
+    width: 10rem;
+}
+
+
+#tablaSin275{
+    border: none;
+    
+}
+
+tfoot{
+    background-color: rgb(88, 86, 86);
+    color: white;
+    
+}
+
+.trSubtotal{
+
+    background-color: rgb(151, 151, 151);
+    color: white;
+}
+
+button{
+    width: 70px;
+    height: 30px;
+    border: 1px solid;
+    margin: 15px 10px;
+    border-radius: 5px;
+}
+
+.agregar{
+    background-color: #36e301;
+    border-color: #2f9e13;
+    color: white;
+}
+
+.quitar{
+    background-color: #e06a5b;
+    border-color: #a81717;
+    color: white;
+}
